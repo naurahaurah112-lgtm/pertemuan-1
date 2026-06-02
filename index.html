@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portofolio Naurah</title>
+<link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+<nav>
+    <div class="logo">PORTOFOLIO</div>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="profile.html">about</a></li>
+        <li><a href="projects.html">Pengalaman kampus</a></li>
+    
+    </ul>
+</nav>
+
+<section class="hero">
+    <img src="WhatsApp Image 2026-04-28 at 13.12.11.jpeg" alt="Foto Profil">
+
+    <h1>HALO AKU NAURAH</h1>
+
+    <h3>Mahasiswa Teknik Informatika</h3>
+    <h4>yang imut lucu dan rajin suka menabung</h4>
+
+    <p>
+        Universitas Islam Riau <br>
+    </p>
+
+    <a href="profile.html" class="btn">Lihat Profil imut ku </a>
+</section>
+
+</body>
+</html>
