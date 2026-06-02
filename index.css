@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     margin:0;
     padding:0;
@@ -149,24 +148,4 @@ li{
     border-radius:10px !important;
     border:none !important;
     margin:10px;
-=======
-*,html{
-    margin: 0;
-    paddiing: 0:
-
-}
-header{
-    background-color: khaki;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 30x;
-}
-
-ul{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 30px
->>>>>>> a0ae0a8dd54767e9c86ab0c5e23859b2d47d056c
 }
