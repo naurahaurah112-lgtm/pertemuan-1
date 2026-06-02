@@ -1,0 +1,19 @@
+*,html{
+    margin: 0;
+    paddiing: 0:
+
+}
+header{
+    background-color: khaki;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30x;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px
+}
